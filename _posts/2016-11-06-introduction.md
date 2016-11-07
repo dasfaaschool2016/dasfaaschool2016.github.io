@@ -17,11 +17,11 @@ title: Introduction
   </figure>
   <figure>
     <img src="http://farm9.staticflickr.com/8328/8444919844_d9ae14bf33_b.jpg" style="width:100%">
-    <figcaption>Ha Noi, Viet Nam</figcaption> 
+    <figcaption>Ha Noi Skyline (1), Viet Nam</figcaption> 
   </figure>
   <figure>
     <img src="https://minefieldsandminiskirts.files.wordpress.com/2012/06/hanoiskyline2.jpg" style="width:100%">
-    <figcaption>Ha Noi, Viet Nam</figcaption> 
+    <figcaption>Ha Noi Skyline (2), Viet Nam</figcaption> 
   </figure>
   <span class="prev">&laquo;</span>
   <span class="next">&raquo;</span>
