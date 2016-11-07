@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            DASFAASCHOOL
+tagline:          'DASFAASCHOOL'
+description:      'Big Data Management and Analytics: From Theory to Practice.'
+url:              http://dasfaaschool.github.io
+baseurl:          /
+
+author:
+  name:           'Kien Nguyen'
+  url:            https://github.com/ntk148v
+
+paginate:         10
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/dasfaaschool/dasfaaschool.github.io
