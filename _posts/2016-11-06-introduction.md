@@ -12,11 +12,11 @@ title: Introduction
 <hr>
 <div class="diy-slideshow">
   <figure class="show">
-    <img src="http://3.bp.blogspot.com/-BGxdh_t3L7U/U3dvdMZjBUI/AAAAAAAALHg/fZebCjPWJ_I/s1600/Hanoi+Pano+-+tu_geo.jpg" style="width:100%">
+    <img src="https://www.hanoihotels.info/wp-content/uploads/2015/07/Hanoi.jpg" style="width:100%">
     <figcaption>Ha Noi, Viet Nam</figcaption> 
   </figure>
   <figure>
-    <img src="http://farm9.staticflickr.com/8328/8444919844_d9ae14bf33_b.jpg" style="width:100%">
+    <img src="https://i.ytimg.com/vi/0rkcaQF4QPM/maxresdefault.jpg" style="width:100%">
     <figcaption>Ha Noi Skyline (1), Viet Nam</figcaption> 
   </figure>
   <figure>
