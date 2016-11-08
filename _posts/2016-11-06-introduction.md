@@ -35,11 +35,7 @@ title: Introduction
 
 2. Feida Zhu (SME – Singapore) – lecture 2.x 
 
-3. Cyrus Shahabi (USC – US) – lecture 3.x 
-
-## Number of participants
-
-`40-50 (expected)`
+3. Cyrus Shahabi (USC – US) – lecture 3.x
 
 ### Webmaster
 
