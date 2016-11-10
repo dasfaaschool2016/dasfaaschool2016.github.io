@@ -2,10 +2,12 @@
 <html lang="en-us">
 	{% include head.html %}
 	<body class="theme-base-0d">
-		{% include sidebar.html %}
-		<div class="content container">
-      {% include top.html %}
+        <div class="main-wrapper" style="{width:90%; margin-left:auto; margin-right:auto}">
+		    {% include sidebar.html %}
+		    <div class="content container">
+            {% include top.html %}
 			{{ content }}
-		</div>
+		    </div>
+        </div>
 	</body>
 </html>
