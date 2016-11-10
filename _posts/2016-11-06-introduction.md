@@ -128,4 +128,4 @@ The course assumes that students are familiar with conceptual data modeling tool
 
 ## Webmaster
 
-* Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam
+Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam
