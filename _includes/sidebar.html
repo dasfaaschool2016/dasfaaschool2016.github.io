@@ -3,20 +3,18 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          <font size="5">DASFAA SCHOOL 2016</font>
+          <center>DASFAA SCHOOL 2016</center>
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == '/schedule/') %} active{% endif %}" href="{{ side.baseurl }}/schedule">Schedule</a>
-      <a class="sidebar-nav-item{% if page.url == '/lectures/') %} active{% endif %}" href="{{ side.baseurl }}/lectures">Lectures</a>
+      <!-- <a class="sidebar-nav-item{% if page.url == '/schedule/') %} active{% endif %}" href="{{ side.baseurl }}/schedule">Schedule</a> -->
+      <!-- <a class="sidebar-nav-item{% if page.url == '/lectures/') %} active{% endif %}" href="{{ side.baseurl }}/lectures">Lectures</a> -->
       <span class="sidebar-nav-item">Organized by <a href="http://soict.hust.edu.vn" target="_blank">HUST</a></span>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
-
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

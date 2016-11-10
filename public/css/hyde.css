@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 17rem;
     text-align: left;
   }
 }
@@ -80,12 +80,12 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 1.5rem;
 }
 
 .sidebar-about h1 a:hover {
   text-decoration: none;
-  font-size: 3.5rem;
+  font-size: 1.7rem;
 }
 
 /* Sidebar nav */
@@ -134,14 +134,14 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
+    margin-left: 22rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 24rem;
     margin-right: 4rem;
   }
 }
@@ -160,14 +160,14 @@ a.sidebar-nav-item:focus {
   }
   .layout-reverse .content {
     margin-left: 2rem;
-    margin-right: 20rem;
+    margin-right: 22rem;
   }
 }
 
 @media (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 4rem;
-    margin-right: 22rem;
+    margin-right: 24rem;
   }
 }
 
@@ -260,14 +260,14 @@ a.sidebar-nav-item:focus {
   /* left: 19rem; */
   margin-right: 12px; // @TODO: Vertically middle align
   margin-left: 12px;
-  font-size: 23px;
+  font-size: 20px;
   background-color: #ffffff;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 12px;
   }
 }
 
