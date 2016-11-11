@@ -29,14 +29,6 @@ title: Introduction
 
 <script src="{{ site.url }}/public/js/custom.js" type="text/javascript" charset="utf-8" async defer></script>
 
-## Speakers
-
-1. Yufei Tao (UQ - Australia) – lecture 1.x
-
-2. Feida Zhu (SME – Singapore) – lecture 2.x 
-
-3. Cyrus Shahabi (USC – US) – lecture 3.x
-
 ## Schedule
 
 <style type="text/css">
@@ -99,7 +91,7 @@ title: Introduction
 
 ## Lectures
 
-### Lecture 1. Introduction to MapReduce Algorithms: Model, Constant Rounds, and Impossibility
+### Lecture 1.x. Introduction to MapReduce Algorithms: Model, Constant Rounds, and Impossibility
 
 
 `Yufei Tao` - **School of Information Technology and Electrical Engineering, University of Queensland.**
@@ -107,7 +99,7 @@ title: Introduction
 This short lecture will introduce students to MapReduce algorithms with theoretical guarantees. We will start by defining the massively parallel communication (MPC) model, which serves as a popular computation model for analyzing the performance of MapReduce algorithms. One important efficiency measurement, both in this model and in practice, is the number of "rounds" performed by an algorithm. We will discuss a number of problems that can be settled optimally in a constant number of rounds, and also problems that cannot.
 
 
-### Lecture 2. Network Mining and Analysis for Business Applications
+### Lecture 2.x. Network Mining and Analysis for Business Applications
 
 
 `Feida Zhu` - **Singapore Management University.**
@@ -115,7 +107,7 @@ This short lecture will introduce students to MapReduce algorithms with theoreti
 The recent blossom of social network and communication services in both public and corporate settings have generated a staggering amount of network data of all kinds. Unlike the bio-networks and the chemical compound graph data often used in traditional network mining and analysis, the new network data grown out of these social applications are characterized by their rich attributes, high heterogeneity, enormous sizes and complex patterns of various semantic meanings, all of which have posed significant research challenges to the graph/network mining community. In this lecture, we aim to examine some recent advances in network mining and analysis for social applications, covering a diverse collection of methodologies and applications from the perspectives of event, relationship, collaboration and network pattern. We would present the problem setting, the research challenges, the recent research advances and some future directions for each perspective.
 
 
-### Lecture 3. Geospatial Information Management
+### Lecture 3.x. Geospatial Information Management
 
 
 `Cyrus Shahabi` - **University of Southern California.**
@@ -126,6 +118,3 @@ The focus of this course is on studying techniques to efficiently store, manipul
 
 The course assumes that students are familiar with conceptual data modeling tools such as Entity-Relationship (ER) data model, logical data models such as the relational and object-relational data model, SQL3 as a commercial query language, normal forms and logical data design, physical design of a database using persistent data structures such as B+-tree and Hash indexes, transactions, concurrency control and crash recovery techniques.
 
-## Webmaster
-
-Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam
