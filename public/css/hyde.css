@@ -85,7 +85,7 @@ html {
 
 .sidebar-about h1 a:hover {
   text-decoration: none;
-  font-size: 1.7rem;
+  /* font-size: 1.7rem; */
 }
 
 /* Sidebar nav */
