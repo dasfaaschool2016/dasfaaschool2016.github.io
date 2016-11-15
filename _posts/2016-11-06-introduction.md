@@ -74,8 +74,5 @@ The course assumes that students are familiar with conceptual data modeling tool
 
 - Hong-Phuong Nguyen, Hanoi University of Science and Technology, Vietnam
 
-- Viet-Trung Nguyen,  Hanoi University of Science and Technology, Vietnam
+- Viet-Trung Tran,  Hanoi University of Science and Technology, Vietnam
 
-### Webmaster
-
-- Tuan-Kien Nguyen, Hanoi University of Science and Technology, Vietnam
