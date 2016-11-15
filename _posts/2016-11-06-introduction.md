@@ -66,8 +66,6 @@ The course assumes that students are familiar with conceptual data modeling tool
 
 ## Local Organizers
 
-### Local Organization
-
 - Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
 
 - Binh-Minh Nguyen, Hanoi University of Science and Technology, Vietnam
