@@ -64,7 +64,8 @@ The focus of this course is on studying techniques to efficiently store, manipul
 
 The course assumes that students are familiar with conceptual data modeling tools such as Entity-Relationship (ER) data model, logical data models such as the relational and object-relational data model, SQL3 as a commercial query language, normal forms and logical data design, physical design of a database using persistent data structures such as B+-tree and Hash indexes, transactions, concurrency control and crash recovery techniques.
 
-### Lecture 4. Industry Talk
+## Industry Talk
+
 
 `Dr. Tam Le Nhan` - **IBM Vietnam**
 
