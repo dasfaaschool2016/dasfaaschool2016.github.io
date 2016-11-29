@@ -64,6 +64,12 @@ The focus of this course is on studying techniques to efficiently store, manipul
 
 The course assumes that students are familiar with conceptual data modeling tools such as Entity-Relationship (ER) data model, logical data models such as the relational and object-relational data model, SQL3 as a commercial query language, normal forms and logical data design, physical design of a database using persistent data structures such as B+-tree and Hash indexes, transactions, concurrency control and crash recovery techniques.
 
+### Lecture 4. Industry Talk
+
+`Dr. Tam Le Nhan` - **IBM Vietnam**
+
+Beside cloud computing and big data, IoT and Blockchain are driving the digital disruption of the physical world, accelerating advances in technology. Gaining insights from huge volumes of IoT data can lead to better business decisions. IBM Watson IoT Platform will connect Watson APIs to the IoT solution and apply real-time analytics to monitor and act on both structure and unstructured data. It also leverages machine learning, natural language processing and environmental conditions to optimize products, processes and business operations. Blockchain is a technology for a new generation of transactional applications that establishes trust, accountability and transparency while streamlining business processes. It is a design pattern made famous by bitcoin, but its uses go far beyond. With blockchain, we can re-imagine the world's most fundamental business interactions and open the door to invent new styles of digital interactions. IBM Blockchain and the revolutionary shared ledger technology can help your enterprise business solve complex problems now and in the near future.
+
 ## Local Organizers
 
 - Tuyet Trinh Vu, Hanoi University of Science and Technology, Vietnam
