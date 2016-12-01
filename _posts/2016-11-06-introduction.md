@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-<i class="fa fa-home fa-lg"></i><b> Venue:</b>816 TaQuangBuu Library Building, Hanoi University of Science and Technology (HUST), Hanoi, Vietnam.
+<i class="fa fa-home fa-lg"></i><b> Venue:</b> 816 TaQuangBuu Library Building, Hanoi University of Science and Technology (HUST), Hanoi, Vietnam.
 
 <i class="fa fa-clock-o fa-lg"></i><b> Time:</b>  full 5 days from December 2-6, 2016.
 
@@ -32,89 +32,89 @@ title: Introduction
 ## Schedule
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-anf2{font-size:18px;background-color:#9aff99;text-align:center;vertical-align:top}
-.tg .tg-bn4o{font-weight:bold;font-size:18px;text-align:center;vertical-align:top}
-.tg .tg-nwcr{font-size:18px;background-color:#fe996b;text-align:center;vertical-align:top}
-.tg .tg-swrf{font-size:18px;background-color:#f56b00;text-align:center;vertical-align:top}
-.tg .tg-13pz{font-size:18px;text-align:center;vertical-align:top}
-.tg .tg-3oh3{font-size:18px;background-color:#bbdaff;text-align:center;vertical-align:top}
-.tg .tg-bhbn{font-size:18px;background-color:#fffc9e;text-align:center;vertical-align:top}
-.tg .tg-9apd{font-size:18px;background-color:#c0c0c0;text-align:center;vertical-align:top}
-.tg .tg-cxqj{font-size:18px;background-color:#ffcc67;text-align:center;vertical-align:top}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-qv16{font-weight:bold;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-mq6h{font-size:16px;background-color:#fe996b;text-align:center;vertical-align:top}
+.tg .tg-rql5{font-size:16px;background-color:#f56b00;text-align:center;vertical-align:top}
+.tg .tg-tl3h{font-size:16px;background-color:#c0c0c0;text-align:center;vertical-align:top}
+.tg .tg-lvth{font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-4und{font-size:16px;background-color:#bbdaff;text-align:center;vertical-align:top}
+.tg .tg-qir8{font-size:16px;background-color:#9aff99;text-align:center;vertical-align:top}
+.tg .tg-cnhx{font-size:16px;background-color:#fffc9e;text-align:center;vertical-align:top}
+.tg .tg-e3wt{font-size:16px;background-color:#ffcc67;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-13pz"></th>
-    <th class="tg-bn4o">Fri<br>Dec.2</th>
-    <th class="tg-bn4o">Sat<br>Dec.3</th>
-    <th class="tg-bn4o">Sun<br>Dec.4</th>
-    <th class="tg-bn4o">Mon<br>Dec.5</th>
-    <th class="tg-bn4o">Tue<br>Dec.6</th>
+    <th class="tg-lvth"></th>
+    <th class="tg-qv16">Fri<br>Dec.2</th>
+    <th class="tg-qv16">Sat<br>Dec.3</th>
+    <th class="tg-qv16">Sun<br>Dec.4</th>
+    <th class="tg-qv16">Mon<br>Dec.5</th>
+    <th class="tg-qv16">Tue<br>Dec.6</th>
   </tr>
   <tr>
-    <td class="tg-bn4o">8:15</td>
-    <td class="tg-bn4o">Registration</td>
-    <td class="tg-13pz"></td>
-    <td class="tg-13pz"></td>
-    <td class="tg-13pz"></td>
-    <td class="tg-13pz"></td>
+    <td class="tg-qv16">8:15</td>
+    <td class="tg-qv16">Registration</td>
+    <td class="tg-lvth"></td>
+    <td class="tg-lvth"></td>
+    <td class="tg-lvth"></td>
+    <td class="tg-lvth"></td>
   </tr>
   <tr>
-    <td class="tg-13pz">8:30-10:00</td>
-    <td class="tg-3oh3">Lecture 1</td>
-    <td class="tg-3oh3">Lecture 1</td>
-    <td class="tg-anf2">Lecture 2</td>
-    <td class="tg-bhbn">Lecture 3</td>
-    <td class="tg-bhbn">Lecture 3</td>
+    <td class="tg-lvth">8:30-10:00</td>
+    <td class="tg-4und">Lecture 1</td>
+    <td class="tg-4und">Lecture 1</td>
+    <td class="tg-qir8">Lecture 2</td>
+    <td class="tg-cnhx">Lecture 3</td>
+    <td class="tg-cnhx">Lecture 3</td>
   </tr>
   <tr>
-    <td class="tg-13pz">10:00</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-9apd">Break</td>
+    <td class="tg-lvth">10:00</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-tl3h">Break</td>
   </tr>
   <tr>
-    <td class="tg-13pz">10:15-11:30</td>
-    <td class="tg-3oh3">Lecture 1</td>
-    <td class="tg-3oh3">Lecture 1</td>
-    <td class="tg-anf2">Lecture 2</td>
-    <td class="tg-bhbn">Lecture 3</td>
-    <td class="tg-bhbn">Lecture 3</td>
+    <td class="tg-lvth">10:15-11:30</td>
+    <td class="tg-4und">Lecture 1</td>
+    <td class="tg-4und">Lecture 1</td>
+    <td class="tg-qir8">Lecture 2</td>
+    <td class="tg-cnhx">Lecture 3</td>
+    <td class="tg-cnhx">Lecture 3</td>
   </tr>
   <tr>
-    <td class="tg-13pz">11:30-13:00</td>
-    <td class="tg-nwcr">Welcome lunch<br>(all participants)</td>
-    <td class="tg-13pz">Lunch time (free)</td>
-    <td class="tg-13pz">Lunch time (free)</td>
-    <td class="tg-13pz">Lunch time (free)</td>
-    <td class="tg-nwcr" rowspan="2">Closing lunch<br>(all participants)</td>
+    <td class="tg-lvth">11:30-13:00</td>
+    <td class="tg-mq6h">Welcome lunch<br>(all participants)</td>
+    <td class="tg-lvth">Lunch time (free)</td>
+    <td class="tg-lvth">Lunch time (free)</td>
+    <td class="tg-lvth">Lunch time (free)</td>
+    <td class="tg-mq6h" rowspan="2">Closing lunch<br>(all participants)</td>
   </tr>
   <tr>
-    <td class="tg-13pz">13:00-15:00</td>
-    <td class="tg-3oh3">Lecture 1</td>
-    <td class="tg-3oh3">Lecture 2</td>
-    <td class="tg-anf2">Lecture 2</td>
-    <td class="tg-bhbn">Lecture 3</td>
+    <td class="tg-lvth">13:00-15:00</td>
+    <td class="tg-4und">Lecture 1</td>
+    <td class="tg-4und">Lecture 2</td>
+    <td class="tg-qir8">Lecture 2</td>
+    <td class="tg-cnhx">Lecture 3</td>
   </tr>
   <tr>
-    <td class="tg-13pz">15:00</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-9apd">Break</td>
-    <td class="tg-13pz" rowspan="2"></td>
+    <td class="tg-lvth">15:00</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-tl3h">Break</td>
+    <td class="tg-lvth" rowspan="2"></td>
   </tr>
   <tr>
-    <td class="tg-13pz">15:15-16:30</td>
-    <td class="tg-swrf">IBM Talk<br>(Tam L.)</td>
-    <td class="tg-cxqj">Participant<br>presentation</td>
-    <td class="tg-anf2">Lecture 2</td>
-    <td class="tg-swrf">GE Talk<br>(Alvin Ng.)</td>
+    <td class="tg-lvth">15:15-16:30</td>
+    <td class="tg-rql5">IBM Talk<br>(Tam L.)</td>
+    <td class="tg-e3wt">Participant<br>presentation</td>
+    <td class="tg-qir8">Lecture 2</td>
+    <td class="tg-rql5">GE Talk<br>(Alvin Ng.)</td>
   </tr>
 </table>
 
